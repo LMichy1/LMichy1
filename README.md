@@ -52,6 +52,5 @@ Validation of third-party API contracts, authentication flows, JSON payloads, ra
 
 - **B.S., Computer Science** — University of Michigan
 - **Master's degree** — University of Michigan, 2024–December 2025
-- **Selected certifications/training listed on the resume:** Stanford Machine Learning · Google Cloud AI · AWS Machine Learning Foundations · IBM Data Analytics
 
 <!-- Add a Connect section once a professional email, LinkedIn URL, or portfolio is verified. -->
